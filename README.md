@@ -1,2 +1,2 @@
 # leetcode
-Jvascript solutions for leetcode problems
+Javascript solutions for leetcode problems
